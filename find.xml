@@ -1,0 +1,30 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="src" />
+    <option name="defaultScopeName" value="src" />
+    <option name="SEARCH_SCOPE" value="src" />
+    <option name="FILE_MASK" value="!*.html" />
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*.htm</mask>
+    <mask>*.json</mask>
+    <mask>!*.js, !*.map</mask>
+    <mask>*.css</mask>
+    <mask>!*.svg</mask>
+    <mask>*.html</mask>
+    <mask>!*.js</mask>
+    <mask>*.js</mask>
+    <mask>*.vue</mask>
+    <mask>*.php</mask>
+    <mask>*.pug</mask>
+    <mask>*.scss</mask>
+    <mask>*.tsx</mask>
+    <mask>*.ts</mask>
+    <mask>*.</mask>
+    <mask>!*.html</mask>
+  </component>
+</application>
